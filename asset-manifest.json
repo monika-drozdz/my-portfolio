@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/my-portfolio/static/css/main.1b3bab16.chunk.css",
+    "main.js": "/my-portfolio/static/js/main.01167cd4.chunk.js",
+    "main.js.map": "/my-portfolio/static/js/main.01167cd4.chunk.js.map",
+    "runtime-main.js": "/my-portfolio/static/js/runtime-main.5f50e2ef.js",
+    "runtime-main.js.map": "/my-portfolio/static/js/runtime-main.5f50e2ef.js.map",
+    "static/js/2.eb80eba9.chunk.js": "/my-portfolio/static/js/2.eb80eba9.chunk.js",
+    "static/js/2.eb80eba9.chunk.js.map": "/my-portfolio/static/js/2.eb80eba9.chunk.js.map",
+    "static/js/3.5c3ccacc.chunk.js": "/my-portfolio/static/js/3.5c3ccacc.chunk.js",
+    "static/js/3.5c3ccacc.chunk.js.map": "/my-portfolio/static/js/3.5c3ccacc.chunk.js.map",
+    "index.html": "/my-portfolio/index.html",
+    "static/css/main.1b3bab16.chunk.css.map": "/my-portfolio/static/css/main.1b3bab16.chunk.css.map",
+    "static/js/2.eb80eba9.chunk.js.LICENSE.txt": "/my-portfolio/static/js/2.eb80eba9.chunk.js.LICENSE.txt",
+    "static/media/Blender.c46b9fd4.svg": "/my-portfolio/static/media/Blender.c46b9fd4.svg",
+    "static/media/FaCss3Alt.07f97351.svg": "/my-portfolio/static/media/FaCss3Alt.07f97351.svg",
+    "static/media/FaFigma.c6247514.svg": "/my-portfolio/static/media/FaFigma.c6247514.svg",
+    "static/media/FaGithub.73843e2f.svg": "/my-portfolio/static/media/FaGithub.73843e2f.svg",
+    "static/media/FaHtml5.4f0f9782.svg": "/my-portfolio/static/media/FaHtml5.4f0f9782.svg",
+    "static/media/FaJsSquare.765aca70.svg": "/my-portfolio/static/media/FaJsSquare.765aca70.svg",
+    "static/media/FaLinkedin.f6f5c5c1.svg": "/my-portfolio/static/media/FaLinkedin.f6f5c5c1.svg",
+    "static/media/FaReact.f3fff9c6.svg": "/my-portfolio/static/media/FaReact.f3fff9c6.svg",
+    "static/media/FaSass.145ea196.svg": "/my-portfolio/static/media/FaSass.145ea196.svg",
+    "static/media/arrow-l.9299ce76.svg": "/my-portfolio/static/media/arrow-l.9299ce76.svg",
+    "static/media/arrow-r.08bad0fd.svg": "/my-portfolio/static/media/arrow-r.08bad0fd.svg",
+    "static/media/big-arrow.06b372df.svg": "/my-portfolio/static/media/big-arrow.06b372df.svg",
+    "static/media/external-link.cd84a099.svg": "/my-portfolio/static/media/external-link.cd84a099.svg",
+    "static/media/my-logo.92f5e6c6.svg": "/my-portfolio/static/media/my-logo.92f5e6c6.svg",
+    "static/media/resume.93db7317.pdf": "/my-portfolio/static/media/resume.93db7317.pdf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5f50e2ef.js",
+    "static/js/2.eb80eba9.chunk.js",
+    "static/css/main.1b3bab16.chunk.css",
+    "static/js/main.01167cd4.chunk.js"
+  ]
+}
