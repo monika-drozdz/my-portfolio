@@ -1,0 +1,36 @@
+@import "../../styles/colours.scss";
+
+.about-container {
+	color: white;
+	padding: 3em;
+	width: 100%;
+	// display: none;
+	font-size: 20px;
+	letter-spacing: 10;
+	text-align: justify;
+
+	h4 {
+		color: $light-purple;
+		font-family: "Krona One", sans-serif;
+		font-family: "Ephesis", cursive;
+		font-size: 40px;
+		// font-family: "Alegreya Sans SC", sans-serif;
+		// font-size: 32px;
+	}
+
+	.resume {
+		transition: 0.3s ease-in;
+		color: $light-purple;
+		&:hover {
+			color: $light-gray;
+		}
+	}
+
+	p {
+		font-family: "Kanit", sans-serif;
+		&:last-of-type {
+			display: flex;
+			align-items: center;
+		}
+	}
+}

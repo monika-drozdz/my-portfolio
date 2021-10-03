@@ -1,0 +1,61 @@
+@import "../../styles/colours.scss";
+
+.App-header {
+	min-height: 100vh;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	justify-content: center;
+	font-size: calc(10px + 2vmin);
+	/* color: white; */
+	padding-top: 4em;
+}
+
+h1 {
+	font-family: "Krona One", sans-serif;
+	font-size: 72px;
+	color: $light-gray;
+}
+h2 {
+	letter-spacing: 0.15em;
+	text-transform: uppercase;
+	font-size: 32px;
+	background: linear-gradient(180deg, #ffffff 2.26%, $light-purple 50.01%);
+	background-clip: text;
+	-webkit-text-fill-color: transparent;
+	font-family: "Krona One", sans-serif;
+	margin-bottom: 5em;
+}
+
+.arrow {
+	transition: 1s ease-in-out;
+	animation: pulse 3s infinite;
+	// &:hover {
+	// 	transform: scale(0.9) translateY(20px);
+	// }
+}
+
+.social-links {
+	display: flex;
+}
+
+@keyframes pulse {
+	0% {
+		transform: scale(1) translateY(-10px);
+	}
+	50% {
+		transform: scale(0.9) translateY(10px);
+	}
+	100% {
+		transform: scale(1) translateY(-10px);
+	}
+}
+
+@media screen and (max-width: 750px) {
+	h1 {
+		font-size: 32px;
+	}
+	h2 {
+		font-size: 15px;
+	}
+}

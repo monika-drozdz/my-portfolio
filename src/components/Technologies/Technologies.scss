@@ -1,0 +1,22 @@
+@import "../../styles/colours.scss";
+
+.technologies {
+	padding: 4em 3em;
+	width: 100%;
+}
+.lang-overview {
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	flex-wrap: wrap;
+
+	img {
+		margin: 1em;
+		transition: 0.3s ease-in-out;
+	}
+	p {
+		color: $light-purple;
+		font-family: "Krona One", sans-serif;
+		font-size: 14px;
+	}
+}

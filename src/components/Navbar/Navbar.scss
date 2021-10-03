@@ -1,0 +1,52 @@
+@import "../../styles/colours.scss";
+
+.navbar {
+	overflow: hidden;
+	position: absolute;
+	background: $light-purple;
+	left: 0%;
+	top: 10em;
+	height: 0;
+	width: 100%;
+	margin: 0 auto;
+	padding: 0 5em;
+
+	&.open {
+		display: flex;
+		transition: all 0.5s ease-in-out;
+		height: auto;
+		padding: 2em 5em;
+		align-items: center;
+		justify-content: space-between;
+	}
+
+	a {
+		// transform: rotate(-90deg);
+		margin: 1em 0;
+		color: $light-gray;
+		position: relative;
+		font-size: 18px;
+		&:before {
+			content: "";
+			height: 2px;
+			width: 20%;
+			background: $light-gray;
+			position: absolute;
+			left: 0;
+			top: -2px;
+			transition: width 0.3s ease-in-out;
+		}
+
+		&:hover:before {
+			width: 100%;
+		}
+	}
+}
+
+@media screen and (max-width: 750px) {
+	.navbar {
+		&.open {
+			flex-direction: column;
+		}
+	}
+}
