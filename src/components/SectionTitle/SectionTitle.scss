@@ -4,31 +4,48 @@
 	display: flex;
 	justify-content: center;
 	align-items: center;
-	margin-top: 1em;
-	border-top: 1px solid $light-purple;
-	position: relative;
+	margin: 2em 0 3em 0;
 }
 h3 {
 	background: linear-gradient(180deg, #ffffff 2.26%, $light-purple 50.01%);
 	background-clip: text;
 	-webkit-text-fill-color: transparent;
 	text-transform: uppercase;
-	letter-spacing: 0.15em;
-	margin: 1em;
-	font-size: 32px;
-	position: absolute;
-	top: -50px;
-	left: 50%;
-	background-color: rgba(3, 0, 22, 0.8);
+	letter-spacing: 1em;
+	margin: 0.5em 0;
+	font-size: 20px;
+	color: $light-purple;
 	z-index: 100;
-	font-family: "Alegreya Sans SC", sans-serif;
-	font-family: "Kanit", sans-serif;
 	font-family: "Krona One", sans-serif;
+	position: relative;
+	&:before {
+		content: "";
+		position: absolute;
+		bottom: -4px;
+		left: -0.8em;
+		height: 2em;
+		width: 2em;
+		border-top: 2px solid $light-purple;
+		border-left: 2px solid $light-purple;
+		border-radius: 50%;
+		z-index: -20;
+	}
 }
 
 @media screen and (max-width: 750px) {
 	h3 {
-		font-size: 24px;
+		font-size: 18px;
 		margin: 0.5em;
+	}
+}
+
+@media screen and (max-width: 550px) {
+	h3 {
+		font-size: 14px;
+	}
+}
+@media screen and (max-width: 400px) {
+	h3 {
+		font-size: 12px;
 	}
 }

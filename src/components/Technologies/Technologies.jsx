@@ -19,11 +19,11 @@ const Technologies = () => {
 
 	return (
 		<div id="technologies" className="technologies">
-			<SectionTitle>technologies</SectionTitle>
+			<SectionTitle>Technologies</SectionTitle>
 			<div className="lang-overview">
-				{languages.map((item) => {
+				{languages.map((item, id) => {
 					return (
-						<div className="lang">
+						<div className="lang" key={id}>
 							<img src={item.logo} alt="logo" />
 							<p>{item.name}</p>
 						</div>

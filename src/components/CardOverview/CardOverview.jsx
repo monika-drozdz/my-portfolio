@@ -15,10 +15,10 @@ const CardOverview = () => {
 
 	return (
 		<div id="projects" className="projects">
-			<SectionTitle>projects</SectionTitle>
+			<SectionTitle>Projects</SectionTitle>
 			<div className="card-overview">
-				{projects.map((item) => {
-					return <Card item={item} key={item.id} />;
+				{projects.map((item, id) => {
+					return <Card item={item} key={id} />;
 				})}
 			</div>
 		</div>

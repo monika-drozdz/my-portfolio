@@ -49,10 +49,12 @@ const About = () => {
 			<br></br>
 			<br></br>
 
-			<p>
-				Check out my Linkedin profile:
-				<SocialIcon>{linkedin}</SocialIcon>
-			</p>
+			<div className="about-icon">
+				<p>Check out my Linkedin profile:</p>
+				<SocialIcon link="https://linkedin.com/in/monika-dróżdż">
+					{linkedin}
+				</SocialIcon>
+			</div>
 		</div>
 	);
 };

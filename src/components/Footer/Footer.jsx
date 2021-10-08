@@ -4,6 +4,7 @@ import myLogo from "../../assets/images/my-logo.svg";
 import { Link } from "react-scroll";
 
 import SocialIcon from "./../SocialIcon/SocialIcon";
+
 import "./Footer.scss";
 const Footer = () => {
 	return (

@@ -1,7 +1,6 @@
 @import "../../styles/colours.scss";
 
 .technologies {
-	padding: 4em 3em;
 	width: 100%;
 }
 .lang-overview {
@@ -9,6 +8,7 @@
 	justify-content: space-between;
 	align-items: center;
 	flex-wrap: wrap;
+	padding: 3em;
 
 	img {
 		margin: 1em;

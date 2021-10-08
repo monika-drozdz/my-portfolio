@@ -7,7 +7,7 @@
 	margin-bottom: 2em;
 	overflow: hidden;
 	position: relative;
-	background: white;
+
 	&:hover {
 		.image-container:after {
 			opacity: 0;
@@ -19,9 +19,10 @@
 	display: flex;
 	justify-content: space-between;
 	align-items: baseline;
+	padding: 0.5em 0;
 }
 .name {
-	font-size: 12px;
+	font-size: 10px;
 	color: $light-gray;
 	font-family: "Krona One", sans-serif;
 	margin-bottom: 5px;
@@ -41,7 +42,7 @@
 
 	&:after {
 		content: "";
-		background: white;
+		background: $white;
 		opacity: 0.5;
 		position: absolute;
 		top: 0;
@@ -54,6 +55,20 @@
 	img {
 		width: 100%;
 		height: auto;
+	}
+}
+.status {
+	background: $light-purple;
+	border-bottom: $light-purple;
+	z-index: 1000;
+	padding: 0.5em 3em;
+	color: $light-gray;
+	font-size: 10px;
+	text-transform: uppercase;
+
+	&.progress {
+		background: $light-gray;
+		color: $light-purple;
 	}
 }
 
