@@ -34,7 +34,7 @@ const About = () => {
 			<br></br>
 			<p>
 				You can read more about my experience, skills, education and much more
-				in the PDF attached bellow (394 kB):
+				in the PDF attached bellow:
 			</p>
 
 			<a
