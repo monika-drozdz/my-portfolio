@@ -38,8 +38,8 @@ const data = [
         name: "SUNNYSIDE AGENCY LANDING",
         image: project3,
         languages: [html, sass, javascript],
-        demo: "https://monika-drozdz.github.io/Sunnyside-agency-landing-project/",
-        git: "https://github.com/monika-drozdz/Sunnyside-agency-landing-project",
+        demo: "https://monika-drozdz.github.io/Sunnyside-agency-landing-page/",
+        git: "https://github.com/monika-drozdz/Sunnyside-agency-landing-page",
       status: "completed"
       },
       {
