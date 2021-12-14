@@ -29,7 +29,7 @@ const About = () => {
 			<p>
 				Moreover, I have experience working in open-source software Blender 2.8
 				(e.g. architectural visualizations). My next challenge is to combine
-				this skill with Tree.js (JavaScript 3D library) in my future projects.
+				this skill with Three.js (JavaScript 3D library) in my future projects.
 			</p>
 			<br></br>
 			<p>
