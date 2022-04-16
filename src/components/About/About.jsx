@@ -12,8 +12,8 @@ const About = () => {
 			<SectionTitle>About me</SectionTitle>
 			<h4>Hello, I am Monika</h4>
 			<p>
-				I am an aspiring frontend enthusiast looking for the first work
-				experience as a Front-end Web Developer.
+				I am a creative Front-end Developer from Poland. I mainly use Angular,
+				SCSS, RxJS, NgRx and Highcharts in my daily work.
 			</p>
 			<br></br>
 			<p>
@@ -22,8 +22,9 @@ const About = () => {
 				working on DIY projects - discovering how things are made and trying to
 				make them on my own (e.g. macrame, handmade natural soap and soy
 				candles). I have been learning Figma and I used this tool to design
-				custom minimalist labels for candles. Currently I am working on
-				e-commerce shop using ReactJS, React Router, Redux & Firebase.
+				custom minimalist labels for candles and mockups for my non-commercial
+				projects such as e-commerce shop built with ReactJS, React Router, Redux
+				& Firebase which I'm still working on.
 			</p>
 			<br></br>
 			<p>

@@ -46,7 +46,7 @@ const Footer = () => {
 				</div>
 			</div>
 
-			<span>Copyright © 2021 Monika Dróżdż</span>
+			<span>Copyright © 2021-2022 Monika Dróżdż</span>
 		</footer>
 	);
 };
