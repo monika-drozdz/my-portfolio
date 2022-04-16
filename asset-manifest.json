@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/my-portfolio/static/css/main.fcefe0f6.chunk.css",
-    "main.js": "/my-portfolio/static/js/main.b7886b99.chunk.js",
-    "main.js.map": "/my-portfolio/static/js/main.b7886b99.chunk.js.map",
+    "main.js": "/my-portfolio/static/js/main.2db0dbc4.chunk.js",
+    "main.js.map": "/my-portfolio/static/js/main.2db0dbc4.chunk.js.map",
     "runtime-main.js": "/my-portfolio/static/js/runtime-main.5f50e2ef.js",
     "runtime-main.js.map": "/my-portfolio/static/js/runtime-main.5f50e2ef.js.map",
     "static/js/2.eb80eba9.chunk.js": "/my-portfolio/static/js/2.eb80eba9.chunk.js",
@@ -13,6 +13,7 @@
     "static/css/main.fcefe0f6.chunk.css.map": "/my-portfolio/static/css/main.fcefe0f6.chunk.css.map",
     "static/js/2.eb80eba9.chunk.js.LICENSE.txt": "/my-portfolio/static/js/2.eb80eba9.chunk.js.LICENSE.txt",
     "static/media/Blender.c46b9fd4.svg": "/my-portfolio/static/media/Blender.c46b9fd4.svg",
+    "static/media/FaAngular.50726cfd.svg": "/my-portfolio/static/media/FaAngular.50726cfd.svg",
     "static/media/FaCss3Alt.07f97351.svg": "/my-portfolio/static/media/FaCss3Alt.07f97351.svg",
     "static/media/FaFigma.c6247514.svg": "/my-portfolio/static/media/FaFigma.c6247514.svg",
     "static/media/FaGithub.73843e2f.svg": "/my-portfolio/static/media/FaGithub.73843e2f.svg",
@@ -24,7 +25,7 @@
     "static/media/big-arrow.06b372df.svg": "/my-portfolio/static/media/big-arrow.06b372df.svg",
     "static/media/external-link.cd84a099.svg": "/my-portfolio/static/media/external-link.cd84a099.svg",
     "static/media/my-logo.92f5e6c6.svg": "/my-portfolio/static/media/my-logo.92f5e6c6.svg",
-    "static/media/resume.f7f0c214.pdf": "/my-portfolio/static/media/resume.f7f0c214.pdf",
+    "static/media/resume.dc20d99b.pdf": "/my-portfolio/static/media/resume.dc20d99b.pdf",
     "static/media/screen_faq.10cc1417.png": "/my-portfolio/static/media/screen_faq.10cc1417.png",
     "static/media/screen_joblist.d1aa5468.png": "/my-portfolio/static/media/screen_joblist.d1aa5468.png",
     "static/media/screen_memory.09982abe.png": "/my-portfolio/static/media/screen_memory.09982abe.png",
@@ -37,6 +38,6 @@
     "static/js/runtime-main.5f50e2ef.js",
     "static/js/2.eb80eba9.chunk.js",
     "static/css/main.fcefe0f6.chunk.css",
-    "static/js/main.b7886b99.chunk.js"
+    "static/js/main.2db0dbc4.chunk.js"
   ]
 }
