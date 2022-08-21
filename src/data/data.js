@@ -5,6 +5,7 @@ import javascript from "./../assets/images/FaJsSquare.svg";
 import figma from "./../assets/images/FaFigma.svg";
 import css from "./../assets/images/FaCss3Alt.svg";
 import html from "./../assets/images/FaHtml5.svg";
+import angular from "./../assets/images/FaAngular.svg";
 
 import project1 from './../assets/images/screen_url.png';
 import project2 from './../assets/images/screen_joblist.png';
@@ -13,6 +14,7 @@ import project4 from './../assets/images/screen_faq.png';
 import project5 from './../assets/images/screen_sign.png';
 import project6 from './../assets/images/screen_memory.png';
 import project7 from './../assets/images/screen_monx.png';
+import project8 from './../assets/images/screen_rock-paper.png';
 
 const data = [
     {
@@ -77,7 +79,16 @@ const data = [
         demo: "https://monika-drozdz.github.io/monx-e-commerce/",
         git: "https://github.com/monika-drozdz/monx-e-commerce",
       status: "in progress"
-      }
+      },
+      {
+        id: 8,
+        name: "ROCK-PAPER-SCISSORS GAME",
+        image: project8,
+        languages: [angular, sass],
+        demo: "https://monika-drozdz.github.io/rock-paper-scissors-game/",
+        git: "https://github.com/monika-drozdz/rock-paper-scissors-game",
+        status: "completed"
+      },
   ]
   
   export default data;

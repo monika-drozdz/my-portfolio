@@ -5,13 +5,13 @@
 }
 .lang-overview {
 	display: flex;
-	justify-content: space-between;
+	justify-content: center;
 	align-items: center;
 	flex-wrap: wrap;
 	padding: 3em;
 
 	img {
-		margin: 1em;
+		margin: 1.5em;
 		transition: 0.3s ease-in-out;
 	}
 	p {

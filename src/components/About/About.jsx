@@ -10,10 +10,12 @@ const About = () => {
 	return (
 		<div className="about-container" id="about">
 			<SectionTitle>About me</SectionTitle>
-			<h4>Hello, I am Monika</h4>
+			<h4>Hello, I am Monika,</h4>
+			<p>Front-end Developer from Poland</p>
+			<br></br>
 			<p>
-				I am a creative Front-end Developer from Poland. I mainly use Angular,
-				SCSS, RxJS, NgRx and Highcharts in my daily work.
+				I am familiar with Angular, RxJS, NgRx and SCSS. Additionally, I often
+				use Highcharts library for data visualization.
 			</p>
 			<br></br>
 			<p>
