@@ -11,7 +11,7 @@ const About = () => {
 		<div className="about-container" id="about">
 			<SectionTitle>About me</SectionTitle>
 			<h4>Hello, I am Monika,</h4>
-			<p>Front-end Developer from Poland</p>
+			<p>Front-end developer from Poland</p>
 			<br></br>
 			<p>
 				I am familiar with Angular, RxJS, NgRx and SCSS. Additionally, I often
